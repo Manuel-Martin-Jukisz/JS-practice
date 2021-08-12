@@ -1,6 +1,6 @@
 # This repostirory its used just to Practice
 
-I have not been very update on the JS 2021 sintax, thats why Itry to touch couple important things
+I have not been very update on the JS 2021 syntax, thats why Itry to touch couple important things
 Ineed to know of JS to have better coding expirience on React.
 
 # Getting Started with Create React App
